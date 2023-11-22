@@ -19,5 +19,5 @@ Lip Reading using Deep Learning
 
 ## Performance & Final Submission
  ### Solution Performance
- ### Project Documentation
+ ### Project Documentation - Link - https://drive.google.com/file/d/1iY-xMa8QX0Zvo1aCcLWU4QklhYtN65EF/view?usp=sharing
 
