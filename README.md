@@ -15,6 +15,7 @@ https://drive.google.com/file/d/1LS7PVPvrYPdBxHlBMGMcPmrJU3AvY2uR/view?usp=shari
  ### Solution Architecture
  Documentation
  ### Determine The Requirements (Data Flow Diagram)
+ Documentation
 
 ## Project Planning Phase
  ### Technology Stack
