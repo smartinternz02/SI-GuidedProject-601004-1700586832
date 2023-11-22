@@ -1,6 +1,7 @@
 # SI-GuidedProject-601004-1700586832
 
-Lip Reading using Deep Learning - Full Documentation
+Lip Reading using Deep Learning
+Full Documentation
 https://drive.google.com/file/d/1QgBzvPq2T2Ga-frTzavU0SIq-vOLo9IZ/view?usp=sharing
 ## Ideation Phase
  ### Empathy Map Canvas 
