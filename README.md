@@ -5,8 +5,10 @@ Lip Reading using Deep Learning -
  ### Project Documentation Demo
  https://drive.google.com/file/d/1iY-xMa8QX0Zvo1aCcLWU4QklhYtN65EF/view?usp=sharing
 
-Full Documentation
+Full Documentation -
 https://drive.google.com/file/d/1QgBzvPq2T2Ga-frTzavU0SIq-vOLo9IZ/view?usp=sharing
+
+
 ## Ideation Phase
  ### Empathy Map Canvas 
 https://drive.google.com/file/d/1LS7PVPvrYPdBxHlBMGMcPmrJU3AvY2uR/view?usp=sharing
