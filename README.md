@@ -15,14 +15,14 @@ https://drive.google.com/file/d/1LS7PVPvrYPdBxHlBMGMcPmrJU3AvY2uR/view?usp=shari
  https://drive.google.com/file/d/1363FKBzgR54WtVE81dGh2wG52YmJTWF8/view?usp=sharing
 
 ## Project Design Phase
- ### Proposed Solution
+ ### Proposed Solution 
  Documentation
- ### Solution Architecture
+ ### Solution Architecture 
  Documentation
- ### Determine The Requirements (Data Flow Diagram)
+ ### Determine The Requirements (Data Flow Diagram) 
  Documentation
 
-## Project Planning Phase
+## Project Planning Phase 
  ### Technology Stack
  https://i.postimg.cc/Pqxtf2wj/image.png
  ### Project Planning Details
@@ -35,4 +35,6 @@ https://drive.google.com/file/d/1LS7PVPvrYPdBxHlBMGMcPmrJU3AvY2uR/view?usp=shari
 ## Performance & Final Submission
  ### Solution Performance
  Documentation
+ 
+ ### thank you
 
